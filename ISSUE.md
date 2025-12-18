@@ -2,6 +2,7 @@
 
 2025-12-18T17:06:26.742Z [INFO]: [BootstrapNotDetectedError] This AWS account and region has not been bootstrapped.
 
+https://repost.aws/questions/QUWthqKxYPSRuTmfr65wCbqg/my-amplify-environment-started-to-fail-in-a-sudden-bootstrap-error
 
 ```bash
 npm install -g aws-cdk
