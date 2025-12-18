@@ -4,7 +4,7 @@ backend:
     build:
       commands:
         - npm ci --cache .npm --prefer-offline
-        - npx ampx pipeline-deploy --branch main --app-id d2t5nwgea6n824
+        - npx ampx pipeline-deploy --branch main --app-id d30ueyddh9q8u2
 frontend:
   phases:
     build:
